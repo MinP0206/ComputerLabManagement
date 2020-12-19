@@ -4,31 +4,17 @@ using System.Text;
 
 namespace Detaicuoiki
 {
-    class Server
+    public enum CPU_S { XeonE3, XeonE5, XeonGOLD }
+    public enum RAM_S { DDR3ECC, DDR4ECC }
+    public class Server : Devices
     {
-        public string Server_id { set; get; }
-        public string Router_id { set; get; }
-        public string Switch_id { set; get; }
-        public string Speaker_id { set; get; }
-        public string Camera_id { set; get; }
-
+        CPU_S CPU_SType;
+        RAM_S RAM_SType;
 
         public void SetUp() { }
         public void programming() { }
 
         public void operation() { }
-
-
-
-
-
-
-
-
-
-
-
-
 
     }
 }

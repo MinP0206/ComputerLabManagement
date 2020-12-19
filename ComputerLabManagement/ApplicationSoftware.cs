@@ -11,6 +11,20 @@ namespace Detaicuoiki
 
     
         public float Version_;
+
+        public ApplicationSoftware() { }
+        public ApplicationSoftware(string type, string onOS, float version)
+        {
+            Type = type;
+            OnOS = onOS;
+            Version = version;
+        }
+        public ApplicationSoftware(ApplicationSoftware x)
+        {
+            x.Type = this.Type;
+            x.OnOS = this.OnOS;
+            x.Version = this.Version;
+        }
         public float Version
         {
             set { this.Version_ = value; }

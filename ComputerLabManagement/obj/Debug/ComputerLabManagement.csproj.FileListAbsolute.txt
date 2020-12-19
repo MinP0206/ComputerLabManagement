@@ -4,3 +4,10 @@ D:\hoc\ComputerLabManagement\ComputerLabManagement\bin\Debug\ComputerLabManageme
 D:\hoc\ComputerLabManagement\ComputerLabManagement\obj\Debug\ComputerLabManagement.csprojAssemblyReference.cache
 D:\hoc\ComputerLabManagement\ComputerLabManagement\obj\Debug\ComputerLabManagement.exe
 D:\hoc\ComputerLabManagement\ComputerLabManagement\obj\Debug\ComputerLabManagement.pdb
+C:\Users\Admin\OneDrive\Máy tính\CompterLabManagement\ComputerLabManagement\bin\Debug\ComputerLabManagement.exe.config
+C:\Users\Admin\OneDrive\Máy tính\CompterLabManagement\ComputerLabManagement\bin\Debug\ComputerLabManagement.exe
+C:\Users\Admin\OneDrive\Máy tính\CompterLabManagement\ComputerLabManagement\bin\Debug\ComputerLabManagement.pdb
+C:\Users\Admin\OneDrive\Máy tính\CompterLabManagement\ComputerLabManagement\obj\Debug\ComputerLabManagement.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\CompterLabManagement\ComputerLabManagement\obj\Debug\ComputerLabManagement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\CompterLabManagement\ComputerLabManagement\obj\Debug\ComputerLabManagement.exe
+C:\Users\Admin\OneDrive\Máy tính\CompterLabManagement\ComputerLabManagement\obj\Debug\ComputerLabManagement.pdb
