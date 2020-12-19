@@ -1,0 +1,6 @@
+D:\hoc\ComputerLabManagement\ComputerLabManagement\bin\Debug\ComputerLabManagement.exe.config
+D:\hoc\ComputerLabManagement\ComputerLabManagement\bin\Debug\ComputerLabManagement.exe
+D:\hoc\ComputerLabManagement\ComputerLabManagement\bin\Debug\ComputerLabManagement.pdb
+D:\hoc\ComputerLabManagement\ComputerLabManagement\obj\Debug\ComputerLabManagement.csprojAssemblyReference.cache
+D:\hoc\ComputerLabManagement\ComputerLabManagement\obj\Debug\ComputerLabManagement.exe
+D:\hoc\ComputerLabManagement\ComputerLabManagement\obj\Debug\ComputerLabManagement.pdb
