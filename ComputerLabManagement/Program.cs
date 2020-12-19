@@ -6,7 +6,7 @@ namespace Detaicuoiki
     {
         static void Main(string[] args)
         {
-            
+            Server S = new Server();
         }
     }
 }
